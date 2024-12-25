@@ -1,0 +1,24 @@
+
+[
+    {
+      "title": "Data Science & Machine Learning",
+      "icon": "/images/icon-design.svg",
+      "description": "Building AI/ML models to deliver insights and automate decisions."
+    },
+    {
+      "title": "Full-Stack Web Development",
+      "icon": "/images/icon-dev.svg",
+      "description": "Crafting responsive web applications with modern tech stacks."
+    },
+    {
+      "title": "Automation & Optimization",
+      "icon": "/images/icon-app.svg",
+      "description": "Streamlining workflows with Python scripting and automation."
+    },
+    {
+      "title": "Data Visualization",
+      "icon": "/images/icon-photo.svg",
+      "description": "Creating impactful dashboards with Tableau and Power BI for insights."
+    }
+  ]
+  

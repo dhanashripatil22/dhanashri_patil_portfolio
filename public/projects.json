@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "SafetyNxt",
+      "category": "Machine Learning",
+      "image": "images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "!Shiksha - Virtual Classroom",
+      "category": "Web development",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "E-commerce",
+      "category": "Web development",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Popcorn-Cinema",
+      "category": "Web development",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Voice Based Transport Enquiry System",
+      "category": "SQL - Web development",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Blog Project with Authentication",
+      "category": "Web development using Django",
+      "image": "images/project-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Expence Tracker",
+      "category": "Web development",
+      "image": "images/project-7.png"
+    },
+    {
+      "id": 8,
+      "title": "Movie Generation System",
+      "category": "Machine Learning",
+      "image": "images/project-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Social",
+      "category": "Web development",
+      "image": "images/project-9.png"
+    }
+  ]
+  
