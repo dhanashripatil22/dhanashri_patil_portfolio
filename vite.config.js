@@ -5,4 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: "/dhanashri_patil_portfolio",
-})
+  build: {
+    outDir: 'dist', // Ensure this matches your output directory
+}
+});
+
